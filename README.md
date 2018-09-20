@@ -1,3 +1,3 @@
 Files: 
 
-* IF_singleNeuron: integrate-and-fire model for a single neuron. 
+* IF_singleNeuron: simulation of a single integrate-and-fire neuron. 
