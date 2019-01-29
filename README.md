@@ -1,3 +1,3 @@
 Files: 
-* CSM_single_TVS: Coördinated Spiking Model for a single neuron (time-varying signal).
-* CSM_multiple_TVS: Coördinated Spiking Model for N neurons (time-varying signal).
+* CSM: Coördinated Spiking Model for N neurons (time varying signal).
+* CSM_2dim: Coördinated Spiking Model with 2-dimensional input (time varying signal)
