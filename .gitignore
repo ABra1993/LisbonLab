@@ -2,4 +2,5 @@ Exercices.ipynb
 .ipynb_checkpoints/*.ipynb
 CSM_multiple.ipynb
 CSM_single.ipynb
-CSM_2dimipynb
+CSM_2dim.ipynb
+Interactive3D.ipynb
