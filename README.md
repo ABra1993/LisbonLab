@@ -1,3 +1,4 @@
 Files: 
-* CSM: Coördinated Spiking Model for N neurons with homogeneous and heterogeneous weights (1-dimensional input).
-* CSM_multidimensional: Coördinated Spiking Model for N neurons with d-dimensional input.
+* : Current_SNN: Spiking Neural Network current-based with one-dimensional input signal
+* : Current_SNN_multidim: Spiking Neural Network current-based with n-dimensional input signal
+* : Conductance_SNN: Spiking Neural Network conductance-based with one-dimensional input signal
