@@ -6,5 +6,5 @@ CSM_2dim.ipynb
 Interactive3D.ipynb
 Voltage_dynamics.ipynb
 Other/
-Currents/.ipynb_checkpoints/*.ipynb
-Conductance/.ipynb_checkpoints/*.ipynb
+Current/.ipynb_checkpoints
+Conductance/.ipynb_checkpoints
