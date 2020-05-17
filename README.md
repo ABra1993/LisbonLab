@@ -5,7 +5,7 @@ Barrett, D. G., Deneve, S., & Machens, C. K. (2016). Optimal compensation for ne
 
 The respiratory contains the following directories:
 - Current: contains scripts simulating the current-based SCN.
-- Conductance: contains scripts simulating the conductance-based sCN.
+- Conductance: contains scripts simulating the conductance-based SCN.
 
 Each folder contains a script for a network receiving a one-dimensional or a multi-dimensional input signal.
 
