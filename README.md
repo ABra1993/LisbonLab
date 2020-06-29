@@ -7,6 +7,6 @@ The respiratory contains the following directories:
 - Current: contains scripts simulating the current-based SCN.
 - Conductance: contains scripts simulating the conductance-based SCN.
 
-Each folder contains a script for a network receiving a one-dimensional or a multi-dimensional input signal.
+(Each folder contains a script for a network receiving a one-dimensional or a multi-dimensional input signal.)
 
 - BoundingBox contains animations of the error space plot for a current-based SCN receiving a two-dimensional input signal.
