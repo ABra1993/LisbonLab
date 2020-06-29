@@ -9,4 +9,4 @@ The respiratory contains the following directories:
 
 Each folder contains a script for a network receiving a one-dimensional or a multi-dimensional input signal.
 
-The directory named BoundingBox contains animations of the error space plot for a current-based SCN receiving a two-dimensional input signal.
+- BoundingBox contains animations of the error space plot for a current-based SCN receiving a two-dimensional input signal.
